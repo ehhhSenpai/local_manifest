@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="ehhhSenpai/device_realme_lunaa" path="device/realme/lunaa" revision="lineage-23.0" remote="github" />
+  <project name="ehhhSenpai/device_oneplus_sm8350-common" path="device/oneplus/sm8350-common" revision="lineage-23.0" remote="github" />
+  <project name="ehhhSenpai/hardware_oplus" path="hardware/oplus" revision="lineage-23.0" remote="github" />
+  <project name="ehhhSenpai/kernel_oneplus_sm8350" path="kernel/oneplus/sm8350" revision="sixteen" remote="github" />
+  <project name="ehhhSenpai/vendor_realme_lunaa" path="vendor/realme/lunaa" revision="sixteen" remote="github" />
+  <project name="ehhhSenpai/vendor_oneplus_sm8350-common" path="vendor/oneplus/sm8350-common" revision="sixteen" remote="github" />
+
+</manifest>
